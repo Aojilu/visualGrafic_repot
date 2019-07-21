@@ -1,2 +1,2 @@
 # visualGrafic_repot
-- なんか打ち込みました
+- 説明
